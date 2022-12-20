@@ -1,1 +1,2 @@
-
+## Jonathan Heasleys Resume Website
+I have created this website to show off my resume along with some of my programming skills. I will create many different pages so I can go into more depth about my resume incase a company would like to see more about a certain thing on it. It is also a good way for me to try new things and experiment on new things. It is my own little project I will be doing in my free time so it will probably never be fully completed but I am certain I will enjoy making this so I can learn more through it and get better with coding.

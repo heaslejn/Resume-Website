@@ -1,4 +1,4 @@
-#container {
+#header {
   background: linear-gradient(black, gray);
   background-position: center;
 }
@@ -25,17 +25,56 @@
   font-size: 20px;
 }
 
-#phone {
+#contact {
   color: white;
   text-align: center;
   text-shadow: 3px 3px black;
   font-size: 20px;
   margin-top: -15px;
+  padding-bottom: 8px;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: aqua;
+  text-decoration: none;
 }
 
 #intro {
   color: white;
-  text-align: center;
+}
+
+#academics {
+  margin-left: 10px;
+}
+
+.line-2 {
+  color: white;
+  border-bottom: 1px solid white;
+  width: 99%;
+}
+
+p {
+  margin-top: -10px;
+  margin-left: 15px;
+}
+
+#cert {
+  margin-top: -15px;
+  margin-left: 20px;
+}
+
+#work {
+  margin-left: 10px;
+}
+
+#opvc {
+  text-decoration: underline .5px white;
+  text-underline-offset: 2px;
 }
 
 html {
